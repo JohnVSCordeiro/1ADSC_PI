@@ -1,0 +1,53 @@
+.card {
+    background-color: lightblue;
+    width: 500px; height: 250px; 
+    padding: 10px; 
+    border: 2px dashed darkblue; 
+    border-radius: 5px;
+    font-family: cursive;
+    
+    }
+
+    .avatar{
+    background-color: blue; 
+    width: 50px; 
+    height: 50px; 
+    border-radius: 100%;
+    }
+
+    .nome{
+    margin-left: 100px; 
+    
+
+    }
+
+    .respota{
+        color: beige; background-color: black;
+    }
+
+    .mensagem{
+    margin-left: 100px;  
+    }
+
+    .resultadodamensegem{
+        color: purple;
+        margin-left: 100px; 
+    }
+
+    .card2{
+    background-color: lightblue;
+    width: 500px; height: 250px; 
+    padding: 10px; 
+    border: 2px dashed darkblue; 
+    border-radius: 5px;
+    font-family: cursive;
+    margin-top: 20px;
+
+    }
+
+    .banana{
+        width: 200px;
+        margin-top: -98px;
+        margin-left: 290px;
+        border: 2px solid black;
+    }

@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+   justify-content: left;
+   margin-left: -1%;
+
+}
+
+.imagem {
+    width: 50px;
+    height: 50px;
+   
+
+}
+
+
+.imagem p {
+    text-align: center;
+}
+
+.img1 {
+    background-color: #63b1bc;
+
+}
+
+.img2 {
+    background-color: #1f2a44;
+
+}
+
+.img3 {
+    background-color: #ed145b;
+}
+
+.img4 {
+    background-color: #efb661;
+
+}

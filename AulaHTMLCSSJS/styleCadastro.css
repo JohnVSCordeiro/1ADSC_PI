@@ -1,0 +1,70 @@
+/**Cadastro**/
+
+.formulario {
+    background-color: antiquewhite;
+    color: #ce477f;
+    padding: 10px 10px 20px 10px;
+    border-radius: 10px;
+    width: 410px;
+    height: 500px;
+    display: flex;
+    flex-direction: column; 
+    margin-top: 100px;
+
+}  
+
+.formulario button {
+    background-color: #ce477f;
+    color: antiquewhite;
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+.formulario input {
+    border: none;
+    border-radius: 10px;
+    height: 35px;
+    padding: 3px;
+    border: #32b9cd solid 2px;
+}
+
+.ola  {
+    font-size: 25px;
+    margin: 3px;
+    align-self: center;
+}
+
+h4{
+    margin-bottom: 10px;
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#botao2{
+    background-color: aliceblue;
+    color: #ce477f;
+    border: #ce477f solid 2px;
+}
+
+.formulario{
+    
+}
+
+
+
+.footer {
+    margin-top: 0px;
+}
+
